@@ -1,0 +1,11 @@
+C:\Users\USER\source\repos\2020HW1\2020HW1\bin\Debug\netcoreapp3.0\2020HW1.exe
+C:\Users\USER\source\repos\2020HW1\2020HW1\bin\Debug\netcoreapp3.0\2020HW1.deps.json
+C:\Users\USER\source\repos\2020HW1\2020HW1\bin\Debug\netcoreapp3.0\2020HW1.runtimeconfig.json
+C:\Users\USER\source\repos\2020HW1\2020HW1\bin\Debug\netcoreapp3.0\2020HW1.runtimeconfig.dev.json
+C:\Users\USER\source\repos\2020HW1\2020HW1\bin\Debug\netcoreapp3.0\2020HW1.dll
+C:\Users\USER\source\repos\2020HW1\2020HW1\bin\Debug\netcoreapp3.0\2020HW1.pdb
+C:\Users\USER\source\repos\2020HW1\2020HW1\obj\Debug\netcoreapp3.0\2020HW1.csprojAssemblyReference.cache
+C:\Users\USER\source\repos\2020HW1\2020HW1\obj\Debug\netcoreapp3.0\2020HW1.AssemblyInfoInputs.cache
+C:\Users\USER\source\repos\2020HW1\2020HW1\obj\Debug\netcoreapp3.0\2020HW1.AssemblyInfo.cs
+C:\Users\USER\source\repos\2020HW1\2020HW1\obj\Debug\netcoreapp3.0\2020HW1.dll
+C:\Users\USER\source\repos\2020HW1\2020HW1\obj\Debug\netcoreapp3.0\2020HW1.pdb
